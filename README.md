@@ -31,6 +31,11 @@ Burp Suite Jython extension that sends Repeater requests to Codex for quick pent
 4. Open the `Codex` tab.
 5. Edit the request, click `Analyze`, or ask a question in the chat box.
 
+---
+
+![](/Burp-extension/assets/mode.png)
+![](/Burp-extension/assets/view.png)
+
 ## Note
 
 Codex runs through your local Codex CLI config. Do not send sensitive or out-of-scope traffic unless you know where your Codex provider sends data.
