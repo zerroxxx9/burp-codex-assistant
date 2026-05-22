@@ -33,8 +33,8 @@ Burp Suite Jython extension that sends Repeater requests to Codex for quick pent
 
 ---
 
-![](/Burp-extension/assets/mode.png)
-![](/Burp-extension/assets/view.png)
+![Analysis mode selector](assets/mode.png)
+![Request and response view controls](assets/view.png)
 
 ## Note
 
